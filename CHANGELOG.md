@@ -4,7 +4,9 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 
 <!-- changelog:start -->
 ## 2026-10-18
-- **AI tools by traffic growth board**: AI products listed on MeetNewAI ranked by added monthly visits, with a JSON feed at `/api/datasets/ai-tools-traffic.json` (also snapshotted weekly in [vaneform/data](https://github.com/vaneform/data)).
+- **Backlink opportunities board** grows from 495 to 623 sites; the added sites carry a domain rating, and the source list is refreshed weekly.
+- On phones, the backlink board's domain column now uses the full row, so names are no longer clipped.
+- **AI tools by traffic growth board**: AI products listed on MeetNewAI ranked by added monthly visits, with a JSON feed at `/api/datasets/ai-tools-traffic.json`.
 - **Fastest growing websites by category**: growth pages for AI tools, developer tools, design, security, hosting and domains, online marketing, social and community, and education.
 - **Traffic badge page**: `/badge` explains how to embed a report's traffic badge. Revenue boards now link to EarlyLore for product research.
 - New landing pages for core board terms; keyword samples on reports are cleaned up.
@@ -27,7 +29,7 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 - New walkthrough video on the SaaS competitive analysis guide.
 
 ## 2026-10-14
-- Footer and MCP docs link the open-source [vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp) repository.
+- Footer and MCP docs link the open-source [vaneform-mcp](https://github.com/vaneform/vaneform-mcp) repository.
 
 ## 2026-10-13
 - Report search card: live, fully unlocked examples for chatgpt.com, github.com and plausible.io; a capability preview for locked sites; competitor counts capped and phone layout fixed.
@@ -111,4 +113,4 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 ## 2026-08-30
 - **Website traffic lookup launches**: enter a domain to see estimated monthly visits and monthly change, with source, date and confidence.
 <!-- changelog:end -->
-<!-- synced-through: #153 -->
+<!-- synced-through: #156 -->

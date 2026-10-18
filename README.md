@@ -12,8 +12,7 @@
 - **Search research**: [keyword research](https://vaneform.com/keyword) and [site keyword rankings](https://vaneform.com/sitekw) with landing pages and search competitors (Pro).
 - **Website history**: archived homepage captures and registration dates at [/history](https://vaneform.com/history).
 - **API**: REST API with a free tier. Free accounts get **100 credits a month**; keyword data is Pro-only. See [docs/api.md](docs/api.md).
-- **MCP**: hosted server at `https://vaneform.com/mcp` plus an open-source local proxy, CLI and agent skill in [jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp). See [docs/mcp.md](docs/mcp.md).
-- **Open data**: weekly snapshots of AI tools by traffic growth in [vaneform/data](https://github.com/vaneform/data) (CC BY 4.0).
+- **MCP**: hosted server at `https://vaneform.com/mcp` plus an open-source local proxy, CLI and agent skill in [vaneform/vaneform-mcp](https://github.com/vaneform/vaneform-mcp). See [docs/mcp.md](docs/mcp.md).
 
 ## Key pages
 

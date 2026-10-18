@@ -17,7 +17,6 @@ What each Vaneform figure is built from, and how to cite it.
 - Link the specific report or board page (for example `https://vaneform.com/e/github-com` or `https://vaneform.com/boards/traffic-growth`) and name Vaneform.
 - Keep the month, scope (whole-site vs search) and confidence next to any number you quote. An estimate is not a site's own analytics.
 - Every report also has a Markdown sibling with the same facts, e.g. <https://vaneform.com/e/github-com.md>.
-- The open dataset in [vaneform/data](https://github.com/vaneform/data) is CC BY 4.0 and asks for the attribution line given in its README.
 
 ## What Vaneform does not publish
 

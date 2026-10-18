@@ -1,6 +1,6 @@
 # Vaneform MCP: setup examples
 
-Vaneform runs a hosted MCP server at `https://vaneform.com/mcp` (Streamable HTTP). The open-source local proxy, CLI and agent skill live in [jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp) (MIT). That repo is the source of truth for install details.
+Vaneform runs a hosted MCP server at `https://vaneform.com/mcp` (Streamable HTTP). The open-source local proxy, CLI and agent skill live in [vaneform/vaneform-mcp](https://github.com/vaneform/vaneform-mcp) (MIT). That repo is the source of truth for install details.
 
 Discovery (`initialize`, `tools/list`) is open. **Tool calls need a Vaneform API key** (free accounts work; see [api.md](api.md) for credits).
 
@@ -47,7 +47,7 @@ claude mcp add --transport http --scope user vaneform https://vaneform.com/mcp \
   "mcpServers": {
     "vaneform": {
       "command": "npx",
-      "args": ["-y", "github:jiangqizheng/vaneform-mcp"],
+      "args": ["-y", "github:vaneform/vaneform-mcp"],
       "env": { "VANEFORM_API_KEY": "vf_live_…" }
     }
   }
