@@ -4,6 +4,7 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 
 <!-- changelog:start -->
 ## 2026-10-18
+- The open-source MCP proxy, CLI and agent skill now live at [vaneform/vaneform-mcp](https://github.com/vaneform/vaneform-mcp); API docs, the brand page and llms.txt link the new address (the old URL redirects).
 - **Backlink opportunities board** grows from 495 to 623 sites; the added sites carry a domain rating, and the source list is refreshed weekly.
 - On phones, the backlink board's domain column now uses the full row, so names are no longer clipped.
 - **AI tools by traffic growth board**: AI products listed on MeetNewAI ranked by added monthly visits, with a JSON feed at `/api/datasets/ai-tools-traffic.json`.
@@ -113,4 +114,4 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 ## 2026-08-30
 - **Website traffic lookup launches**: enter a domain to see estimated monthly visits and monthly change, with source, date and confidence.
 <!-- changelog:end -->
-<!-- synced-through: #156 -->
+<!-- synced-through: #158 -->
