@@ -111,3 +111,4 @@ User-facing changes to [vaneform.com](https://vaneform.com). Dates are release d
 ## 2026-08-30
 - **Website traffic lookup launches**: enter a domain to see estimated monthly visits and monthly change, with source, date and confidence.
 <!-- changelog:end -->
+<!-- synced-through: #153 -->
